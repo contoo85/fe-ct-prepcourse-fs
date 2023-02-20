@@ -1,0 +1,4 @@
+console.log('hola' + 'Coni');
+var nombre = 'Coni';
+var saludo = 'hola' + nombre;
+console.log(saludo);
